@@ -1,0 +1,21 @@
+Dart is a sensitive language so never forget to include semicolons(;) after the code;
+Wrap your code with void(){}
+
+Installation Process for Dart :
+    - Visit Dart official website and download the SDK zip file,
+    - Unzip/Extract the downloaded SDK zip file,
+    - Copy the zipped SDK file and copy paste it to your C:,
+    - In windows search bar type env and hit enter,
+    - A new window will pop up choose the Environment variable
+    - Click on path and choose edit option 
+    - Get back to your filemanager and open your c: where your dart file is located open the folder then open the bin folder 
+      and copy the path location
+    - Get back to your env and paste your path after you click path and edit
+    - You're all set to go
+
+Open your VS Code and create a new project for dart and start your journey learning Dart.....
+
+Learning Pattern for Dart :- {
+  * Variables.dart
+  * Map.dart
+}
